@@ -1,3 +1,4 @@
+![Items Tubes](https://i.imgur.com/7CjBqgl.png)
 # VARIABLE QUESTS
 Project files for the [MCreator](https://mcreator.net/) example and tutorial.
 
@@ -22,6 +23,3 @@ Procedures have been built by NorthWestTrees Gaming.
 
 ## TUTORIALS
 * [YouTube: Items Tubes](https://youtu.be/jPFuPyh9wZE) - Published on 2021-05-21
-
-## GALLERY
-![Items Tubes](https://i.imgur.com/7CjBqgl.png)
