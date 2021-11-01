@@ -1,4 +1,4 @@
-![Items Tubes](https://i.imgur.com/7CjBqgl.png)
+![Items Tubes](https://i.imgur.com/g5vogie.png)
 # VARIABLE QUESTS
 Project files for the [MCreator](https://mcreator.net/) example and tutorial.
 
